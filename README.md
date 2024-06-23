@@ -1,2 +1,5 @@
 # Jraj2
-read me 
+
+read me
+
+# python manage.py runserver
